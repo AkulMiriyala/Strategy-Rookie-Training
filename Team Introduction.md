@@ -8,7 +8,7 @@ Talon540 leadership has several parts and can get confusing quickly. The highest
 
 Furthermore, each subgroup has its own leads and co-leads. This is done to better manage the team and subgroups as a whole. It also decreases the number of people going to team admins as they can get busy throughout the year.
 
-**Programming has the Following Leadership:**
+**Strategy has the Following Leadership:**
 - Lead: XXXX <!-- TODO: -->
 - Second: XXXX <!-- TODO: -->
 

@@ -1,6 +1,6 @@
 # Strategy Rookie Training
 
-Welcome new Talon540 rookies, this document will be used to introduce you guys to how Robotics and Programming a robot work. In programming, your job is to program the robot to use its motors and parts and interact with the world!
+Welcome new Talon540 rookies, this document will be used to introduce you guys to how Robotics works. In strategy we do many things, mainly brainstorming idea-plans and executing them, as well as other notable responsibilities such as scouting. 
 
 - [Meet the Team](/Team%20Introduction.md)
 - [Dates and Events](/Dates%20and%20Events.md)
